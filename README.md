@@ -18,8 +18,7 @@ especially from people that want to use mxGraph in Angular and React application
 Various individual efforts exist to make mxGraph TypeScript usage easier and consist on:
 - definition types
 - commonJS wrapper
-- TypeScript ports: none of them has been completed and maintenance efforts to backport new mxGraph developments seem
-high
+- TypeScript ports
  
 Everybody is working alone on his/her own solution leading to the following issues
 - most of the repository owner disclaim that `the type definition files in this project is not complete yet` or
@@ -49,7 +48,9 @@ TODO search for angular and react
 
 # Existing solutions
 
-**TODO** document here or in dedicated pages
+See a [non exhaustive list](./existing-solutions.md) that presents various solutions with information about their
+activity status and implementation choices
+
 
 ## Prior attempts to make types available via `DefinitelyTyped`
 
