@@ -54,6 +54,8 @@ TODO search for angular and react
 ## Prior attempts to make types available via `DefinitelyTyped`
 
 - [PR #34695](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/34695) which has been closed due to inactivity
+  - submitted on `2019-04-12`
+  - closed on `2019-04-19`: build failed and author didn't manage to fix it
 
 
 # Onboarding of people having individual repository/package
