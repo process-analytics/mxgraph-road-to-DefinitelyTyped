@@ -25,8 +25,8 @@ Everybody is working alone on his/her own solution leading to the following issu
 - most of the repository owner disclaim that `the type definition files in this project is not complete yet` or
 something similar
 - it is almost impossible to know the mxGraph version targeted by the type definition packages
-- as a developer who want to use mxGraph in a TypeScript project, the high number of solutions and [npm packages
-](https://www.npmjs.com/search?q=mxgraph%20typescript)
+- as there are several solutions and [npm packages](https://www.npmjs.com/search?q=mxgraph%20typescript), it is hard to
+find the right and best way to use mxGraph in a TypeScript project
 - generally speaking, if alternate open sources solutions provide emulation, this is overkill for something as basic as
 type definitions: energy is lost in redoing the same definitions over and over instead of adding new types when the
 underlying mxGraph javascript lib evolves or improving the types TSDoc
