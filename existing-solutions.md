@@ -31,6 +31,20 @@ Overview
 - accept contributions, latest merged on [2020-02-28](https://github.com/asual/mxgraph-factory/pull/7) 
 
 
+### [hungtcs/mxgraph-type-definitions]( https://github.com/hungtcs/mxgraph-type-definitions)
+
+Analysis done on `2020-04-11`  
+1st commit: `2019-08-06`  
+Latest commit: `2020-04-11`, [aea2c85](https://github.com/hungtcs/mxgraph-type-definitions/commit/aea2c85674c2307b29aa703cf63b84189dfb4d1d)  
+Latest NPM package: [1.0.1](https://www.npmjs.com/package/mxgraph-type-definitions) on `2020-03-18`   
+Overview
+- mxGraph lib support: `4.1.1` (assumed)
+- same directory layout as in the mxgraph-js source repository. For instance, mxGraph `javascript/src/js/handler/mxCellMarker.js`
+related definition is available in `handler/mxCellMarker.d.ts`
+- one definition file per mxGraph file
+- accept contributions, latest merged on [2020-04-07](https://github.com/hungtcs/mxgraph-type-definitions/pull/2)
+
+
 
 ## mxGraph TypeScript ports
 
