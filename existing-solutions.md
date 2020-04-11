@@ -4,7 +4,7 @@
 
 **Note**: only document NPM package when available i.e. no NPM information means that no NPM package is published
 
-### [aleics/mxgraph-types](https://github.com/aleics/mxgraph-types)
+### <a name="aleics"></a> [aleics/mxgraph-types](https://github.com/aleics/mxgraph-types)
 
 > This repo served as base for the [DefinitelyTyped PR #34695](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/34695),
   which is closed. See also https://github.com/aleics/mxgraph-types/issues/1
@@ -30,8 +30,7 @@ Overview
 - non only provide type definitions: `A tiny wrapper around mxgraph that provides a configurable TypeScript compatible package.`
 - accept contributions, latest merged on [2020-02-28](https://github.com/asual/mxgraph-factory/pull/7) 
 
-<a name="hungtcs"></a>
-###  [hungtcs/mxgraph-type-definitions]( https://github.com/hungtcs/mxgraph-type-definitions)
+### <a name="hungtcs"></a> [hungtcs/mxgraph-type-definitions]( https://github.com/hungtcs/mxgraph-type-definitions)
 
 Analysis done on `2020-04-11`  
 1st commit: `2019-08-06`  
