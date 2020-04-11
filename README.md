@@ -83,22 +83,20 @@ describe how you want or can help.
 
 ## Volunteers followup 
 
-The following people have agreed being part of this initiative.
+The following people have accepted to join this initiative.
 
 | GH User | Contact | Comments |
 | ------- | ------- | -------- |
-| [@tbouffard](https://github.com/tbouffard) | - | Initiate this repo, my main motivation is to have a seamless mxGraph integration in [bpmn-visualization-js](https://github.com/bonitasoft-labs/bpmn-visu-js) |
+| [@hungtcs](https://github.com/hungtcs) | [hungtcs/mxgraph-type-definitions#1](https://github.com/hungtcs/mxgraph-type-definitions/issues/1) | Accept that his [repository](existing-solutions.md#hungtcs) serves for community contributions before moving to `DefinitelyTyped` |
+| [@tbouffard](https://github.com/tbouffard) | - | Initiate and animate this community effort, main motivation: have a seamless mxGraph integration in [bpmn-visualization-js](https://github.com/bonitasoft-labs/bpmn-visu-js) |
 
 
 ### Pending requests
 
-**TODO** if the owner implementation is detailed elsewhere in this repo, add a link to the related doc
- 
 | GH User | Contact | Comments |
 | ------- | ------- | -------- |
 | [@aibcmars](https://github.com/aibcmars) | private message | [bpmn-visualization-js](https://github.com/bonitasoft-labs/bpmn-visu-js) contributor|
 | [@csouchet](https://github.com/csouchet) | private message | [bpmn-visualization-js](https://github.com/bonitasoft-labs/bpmn-visu-js) contributor|
-| [@hungtcs](https://github.com/hungtcs) | [hungtcs/mxgraph-type-definitions#1](https://github.com/hungtcs/mxgraph-type-definitions/issues/1) | Accept contributions in his repository. Waiting answer about joining the effort |
 
 
 

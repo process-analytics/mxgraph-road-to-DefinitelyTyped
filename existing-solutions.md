@@ -30,8 +30,8 @@ Overview
 - non only provide type definitions: `A tiny wrapper around mxgraph that provides a configurable TypeScript compatible package.`
 - accept contributions, latest merged on [2020-02-28](https://github.com/asual/mxgraph-factory/pull/7) 
 
-
-### [hungtcs/mxgraph-type-definitions]( https://github.com/hungtcs/mxgraph-type-definitions)
+<a name="hungtcs"></a>
+###  [hungtcs/mxgraph-type-definitions]( https://github.com/hungtcs/mxgraph-type-definitions)
 
 Analysis done on `2020-04-11`  
 1st commit: `2019-08-06`  
