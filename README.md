@@ -95,8 +95,9 @@ The following people have accepted to join this initiative.
 
 | GH User | Contact | Comments |
 | ------- | ------- | -------- |
-| [@aibcmars](https://github.com/aibcmars) | private message | [bpmn-visualization-js](https://github.com/bonitasoft-labs/bpmn-visu-js) contributor|
-| [@csouchet](https://github.com/csouchet) | private message | [bpmn-visualization-js](https://github.com/bonitasoft-labs/bpmn-visu-js) contributor|
+| [@aibcmars](https://github.com/aibcmars) | private message | [bpmn-visualization-js](https://github.com/bonitasoft-labs/bpmn-visu-js) contributor |
+| [@aleics](https://github.com/aleics) | [aleics/mxgraph-types/issues#1](https://github.com/aleics/mxgraph-types/issues/1) | Previously attempt to propose a [PR to DefinitelyTyped](existing-solutions.md#aleics) |
+| [@csouchet](https://github.com/csouchet) | private message | [bpmn-visualization-js](https://github.com/bonitasoft-labs/bpmn-visu-js) contributor |
 
 
 
