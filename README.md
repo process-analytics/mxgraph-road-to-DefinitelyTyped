@@ -49,7 +49,9 @@ TODO search for angular and react
 # Existing solutions
 
 See a [non exhaustive list](./existing-solutions.md) that presents various solutions with information about their
-activity status and implementation choices
+activity status and implementation choices.
+
+Notice that discussions previously occurs on the [mxGraph GitHub issues](https://github.com/jgraph/mxgraph/issues/88)
 
 
 ## Prior attempts to make types available via `DefinitelyTyped`
@@ -64,18 +66,19 @@ activity status and implementation choices
 The current proposal is to make all volunteers to contribute to the [hungtcs/mxgraph-type-definitions](https://github.com/hungtcs/mxgraph-type-definitions)
 repository, then propose a Pull Request to [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped).
 
-If you think that existing solutions already provide a better support than the proposed repository, please submit an
-issue to start exchanging about it.
+If you think that [existing solutions](./existing-solutions.md) already provide a better support than the proposed repository,
+please submit an issue to start exchanging about it.
 
 ## Way of working
 
-We try to identify people who already developed mxGraph type definition and then contact them to know if they want
-to join. We track the contact followups bellow in this page.
-We first contact original authors of a repository, then people who have forked it and have made some contributions
+We try to identify people who [already developed mxGraph type definitions](./existing-solutions.md) and then contact them
+to know if they want to join. We track the contact followups bellow in this page.  
+First, we contact original authors of a repository, then people who have forked it and have made some contributions
 (locally or in the upstream repo).
 
-If you find a repository not listed here, don't hesitate to contact the owner by yourself and create a Pull Request in
-this repository to help us to track contacts.
+If you find a repository not listed in the [tracking list](#volunteers-followup) or in the [existing solutions page](./existing-solutions.md),
+don't hesitate to contact the owner by yourself and create a Pull Request in this repository to help us to track
+contacts.
 
 If you are interested in this community effort, please submit an issue in this repository to start a discussion and
 describe how you want or can help.
