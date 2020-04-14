@@ -104,6 +104,7 @@ The following people have accepted to join this initiative.
 | [@csouchet](https://github.com/csouchet) | private message | [bpmn-visualization-js](https://github.com/process-analytics/bpmn-visualization-js) contributor |
 | [@gooddaytoday](https://github.com/gooddaytoday) | [DefinitelyTyped#5317](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317#issuecomment-612902003) (2020-04-13) | He created the [mxGraph integration in DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317) issue |
 | [@lgleim](https://github.com/lgleim) | [lgleim/mxgraph-typings#12](https://github.com/lgleim/mxgraph-typings/issues/12) (2020-04-14) | His repository is probably the most forked and used on GitHub |
+| [@rabpeter](https://github.com/rabpeter) | [rabpeter/ts-mxgraph-typings#1](https://github.com/rabpeter/ts-mxgraph-typings/issues/1) (2020-04-14) | Recent activities: new repository and npm packages publishing |
 
 
 <!--
