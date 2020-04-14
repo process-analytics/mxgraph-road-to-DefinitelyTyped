@@ -100,11 +100,15 @@ The following people have accepted to join this initiative.
 | GH User | Contact | Comments |
 | ------- | ------- | -------- |
 | [@aibcmars](https://github.com/aibcmars) | private message | [bpmn-visualization-js](https://github.com/process-analytics/bpmn-visualization-js) contributor |
+| [@asual](https://github.com/asual) | [asual/mxgraph-factory#9](https://github.com/asual/mxgraph-factory/issues/9) (2020-04-14) | He regularly updates types after new mxGraph releases |
 | [@csouchet](https://github.com/csouchet) | private message | [bpmn-visualization-js](https://github.com/process-analytics/bpmn-visualization-js) contributor |
 | [@gooddaytoday](https://github.com/gooddaytoday) | [DefinitelyTyped#5317](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317#issuecomment-612902003) (2020-04-13) | He created the [mxGraph integration in DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317) issue |
 | [@lgleim](https://github.com/lgleim) | [lgleim/mxgraph-typings#12](https://github.com/lgleim/mxgraph-typings/issues/12) (2020-04-14) | His repository is probably the most forked and used on GitHub |
 
 
+<!--
+| [@](https://github.com/) | []() (2020-04-) |  |
+-->
 
 ### Dismissed or Unreachable
 
