@@ -90,7 +90,9 @@ The following people have accepted to join this initiative.
 
 | GH User | Contact | Comments |
 | ------- | ------- | -------- |
+| [@aibcmars](https://github.com/aibcmars) | - | [bpmn-visualization-js](https://github.com/process-analytics/bpmn-visualization-js) contributor |
 | [@aleics](https://github.com/aleics) | [aleics/mxgraph-types/issues#1](https://github.com/aleics/mxgraph-types/issues/1) | Previously attempt to propose a [PR to DefinitelyTyped](existing-solutions.md#aleics) |
+| [@csouchet](https://github.com/csouchet) | - | [bpmn-visualization-js](https://github.com/process-analytics/bpmn-visualization-js) contributor |
 | [@hungtcs](https://github.com/hungtcs) | [hungtcs/mxgraph-type-definitions#1](https://github.com/hungtcs/mxgraph-type-definitions/issues/1) | Accept that his [repository](existing-solutions.md#hungtcs) serves for community contributions before moving to `DefinitelyTyped` |
 | [@tbouffard](https://github.com/tbouffard) | - | Initiate and animate this community effort, main motivation: have a seamless mxGraph integration in [bpmn-visualization-js](https://github.com/process-analytics/bpmn-visualization-js) |
 
@@ -99,8 +101,6 @@ The following people have accepted to join this initiative.
 
 | GH User | Contact | Comments |
 | ------- | ------- | -------- |
-| [@aibcmars](https://github.com/aibcmars) | private message | [bpmn-visualization-js](https://github.com/process-analytics/bpmn-visualization-js) contributor |
-| [@csouchet](https://github.com/csouchet) | private message | [bpmn-visualization-js](https://github.com/process-analytics/bpmn-visualization-js) contributor |
 | [@gooddaytoday](https://github.com/gooddaytoday) | [DefinitelyTyped#5317](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317#issuecomment-612902003) (2020-04-13) | He created the [mxGraph integration in DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317) issue |
 | [@rabpeter](https://github.com/rabpeter) | [rabpeter/ts-mxgraph-typings#1](https://github.com/rabpeter/ts-mxgraph-typings/issues/1) (2020-04-14) | Recent activities: new repository and npm packages publishing |
 
