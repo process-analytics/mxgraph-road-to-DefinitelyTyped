@@ -1,7 +1,7 @@
 # mxgraph-road-to-DefinitelyTyped
 
 This is a community effort followup to provide [mxGraph](https://jgraph.github.io/mxgraph/) TypeScript definition through
-the [DefinitelyTyped project](https://definitelytyped.org/) project and close [mxGraph integration in DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317)
+the [DefinitelyTyped project](https://definitelytyped.org/) and close [mxGraph integration in DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317)
 
 **DISCLAIMER**
 - This repository doesn't provide any TypeScript definition. It is mainly documentation, tracking
