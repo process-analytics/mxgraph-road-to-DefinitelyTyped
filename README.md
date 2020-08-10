@@ -86,7 +86,7 @@ describe how you want to participate. We welcome your participation!
 
 ## Volunteers followup 
 
-The following people have accepted to join this initiative.
+The following people have already joined this initiative.
 
 | GH User | Contact | Comments |
 | ------- | ------- | -------- |
@@ -120,6 +120,6 @@ The following people have accepted to join this initiative.
 
 ### Unreachable
 
-None for now
+None for now!
 
 
