@@ -61,27 +61,27 @@ Notice that there are previous discussions on [mxGraph GitHub issues](https://gi
   - closed on `2019-04-19`: build failed and author didn't manage to fix it
 
 
-# Onboarding of people having individual repository/package
+# Onboarding people who have individual repositories/packages
 
-The current proposal is to make all volunteers to contribute to the [hungtcs/mxgraph-type-definitions](https://github.com/hungtcs/mxgraph-type-definitions)
+This current proposal is to invite all volunteers to contribute to the [hungtcs/mxgraph-type-definitions](https://github.com/hungtcs/mxgraph-type-definitions)
 repository, then propose a Pull Request to [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped).
 
-If you think that [existing solutions](./existing-solutions.md) already provide a better support than the proposed repository,
-please submit an issue to start exchanging about it.
+If you think that there is something among the [existing solutions](./existing-solutions.md) that already provide a better support than the proposed repository,
+please submit an issue to start a discussion about that.
 
-## Way of working
+## Approach
 
-We try to identify people who [already developed mxGraph type definitions](./existing-solutions.md) and then contact them
-to know if they want to join. We track the contact followups bellow in this page.  
-First, we contact original authors of a repository, then people who have forked it and have made some contributions
+We will try to identify those people who have [already developed mxGraph type definitions](./existing-solutions.md) and contact them
+to see if they want to join this team effort. We'll track the contact followups below in this page.  
+First, we'll contact the original authors of a repository, then people who have forked it and/or have made contributions
 (locally or in the upstream repo).
 
 If you find a repository not listed in the [tracking list](#volunteers-followup) or in the [existing solutions page](./existing-solutions.md),
-don't hesitate to contact the owner by yourself and create a Pull Request in this repository to help us to track
+please feel free to contact the owner yourself and create a Pull Request in this repository to help us to track
 contacts.
 
 If you are interested in this community effort, please submit an issue in this repository to start a discussion and
-describe how you want or can help.
+describe how you want to participate. We welcome your participation!
 
 
 ## Volunteers followup 
