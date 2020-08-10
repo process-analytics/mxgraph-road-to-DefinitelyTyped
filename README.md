@@ -48,10 +48,10 @@ TODO search for angular and react
 
 # Existing solutions
 
-See a [non exhaustive list](./existing-solutions.md) that presents various solutions with information about their
+This is a [non exhaustive list](./existing-solutions.md) that presents various solutions with information about their
 activity status and implementation choices.
 
-Notice that discussions previously occurs on the [mxGraph GitHub issues](https://github.com/jgraph/mxgraph/issues/88)
+Notice that there are previous discussions on [mxGraph GitHub issues](https://github.com/jgraph/mxgraph/issues/88)
 
 
 ## Prior attempts to make types available via `DefinitelyTyped`
