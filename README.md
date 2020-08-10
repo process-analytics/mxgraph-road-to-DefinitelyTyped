@@ -11,26 +11,26 @@ and coordination efforts.
 
 # mxGraph TypeScript status and motivations
 
-mxGraph is a javascript lib and its maintainers have no plan to support TypeScript, see
-[mxGraph #81](https://github.com/jgraph/mxgraph/issues/81). However, there is a large demand for such a support
-especially from people that want to use mxGraph in Angular and React applications. 
+mxGraph is a javascript lib and its maintainers have no plan to support TypeScript. (See
+[mxGraph #81](https://github.com/jgraph/mxgraph/issues/81)). However, there is a large demand for this kind of support,
+especially from people who want to use mxGraph in Angular and React applications. 
 
 Various individual efforts exist to make mxGraph TypeScript usage easier and consist on:
 - definition types
 - commonJS wrapper
 - TypeScript ports
  
-Everybody is working alone on his/her own solution leading to the following issues
-- most of the repository owner disclaim that `the type definition files in this project is not complete yet` or
-something similar
-- it is almost impossible to know the mxGraph version targeted by the type definition packages
-- as there are several solutions and [npm packages](https://www.npmjs.com/search?q=mxgraph%20typescript), it is hard to
-find the right and best way to use mxGraph in a TypeScript project
-- generally speaking, if alternate open sources solutions provide emulation, this is overkill for something as basic as
-type definitions: energy is lost in redoing the same definitions over and over instead of adding new types when the
-underlying mxGraph javascript lib evolves or improving the types TSDoc
+Everybody is working individually on their own solutions leading to the following issues:
+- Most repository owners say that `the type definition files in their project are not complete` (or
+something similar).
+- It is almost impossible to know which mxGraph version is targeted by the various type definition packages.
+- As there are several solutions and [npm packages](https://www.npmjs.com/search?q=mxgraph%20typescript), it is hard to
+find the best way to use mxGraph in a TypeScript project.
+- Generally speaking, when alternate open source solutions provide emulation, this is overkill for something as basic as
+type definitions. Energy is lost in redoing the same definitions over and over, instead of simply adding new types when the
+underlying mxGraph javascript lib evolves, or improving the TSDoc types.
 
-So, the current effort aims to make volunteers implement a single, documented, maintained and up to date solution, available
+So, the current effort aims to help volunteers implement a single, documented, maintained, up to date solution, available
 through the [DefinitelyTyped project](https://definitelytyped.org/) project.
 
 
