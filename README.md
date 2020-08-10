@@ -4,9 +4,9 @@ This is a community effort followup to provide [mxGraph](https://jgraph.github.i
 the [DefinitelyTyped project](https://definitelytyped.org/) and close [mxGraph integration in DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317)
 
 **DISCLAIMER**
-- This repository doesn't provide any TypeScript definition. It is mainly documentation, tracking
+- This repository does not provide any TypeScript definition. It addresses mainly documentation, tracking
 and coordination efforts.
-- So please don't open Pull Requests to add definition, such PR will be closed as out of topic.
+- So please don't open Pull Requests to add definition, any such PRs will be closed as out of topic.
 
 
 # mxGraph TypeScript status and motivations
