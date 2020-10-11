@@ -99,12 +99,7 @@ The following people have already joined this initiative.
 
 ### Pending requests
 
-| GH User | Contact | Comments |
-| ------- | ------- | -------- |
-| [@amiraziz](https://github.com/amiraziz) | [amiraziz/ang-mxgraph#1](https://github.com/amiraziz/ang-mxgraph/issues/1) (2020-04-30) | 3 commits on January 2019 in a personal repository |
-| [@gooddaytoday](https://github.com/gooddaytoday) | [DefinitelyTyped#5317](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317#issuecomment-612902003) (2020-04-13) | He created the [mxGraph integration in DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317) issue |
-| [@rabpeter](https://github.com/rabpeter) | [rabpeter/ts-mxgraph-typings#1](https://github.com/rabpeter/ts-mxgraph-typings/issues/1) (2020-04-14) | Recent activities: new repository and npm packages publishing |
-
+None for now!
 
 <!--
 | [@](https://github.com/) | []() (2020-04-) |  |
@@ -120,6 +115,10 @@ The following people have already joined this initiative.
 
 ### Unreachable
 
-None for now!
+| GH User | Contact | Comments |
+| ------- | ------- | -------- |
+| [@amiraziz](https://github.com/amiraziz) | [amiraziz/ang-mxgraph#1](https://github.com/amiraziz/ang-mxgraph/issues/1) (2020-04-30) | 3 commits on January 2019 in a personal repository |
+| [@gooddaytoday](https://github.com/gooddaytoday) | [DefinitelyTyped#5317](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317#issuecomment-612902003) (2020-04-13) | He created the [mxGraph integration in DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317) issue |
+| [@rabpeter](https://github.com/rabpeter) | [rabpeter/ts-mxgraph-typings#1](https://github.com/rabpeter/ts-mxgraph-typings/issues/1) (2020-04-14) | Recent activities: new repository and npm packages publishing |
 
 
