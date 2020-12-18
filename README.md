@@ -1,19 +1,22 @@
 # mxgraph-road-to-DefinitelyTyped
 
 This is a community effort followup to provide [mxGraph](https://jgraph.github.io/mxgraph/) TypeScript definition through
-the [DefinitelyTyped project](https://definitelytyped.org/) and close [mxGraph integration in DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317)
+the [DefinitelyTyped project](https://definitelytyped.org/) and close [mxGraph integration in DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/5317).
+
 
 **DISCLAIMER**
 - This repository does not provide any TypeScript definition. It addresses mainly documentation, tracking
 and coordination efforts.
 - So please don't open Pull Requests to add definition, any such PRs will be closed as out of topic.
+- If you are looking for TypeScript definition, please visit https://github.com/typed-mxgraph/typed-mxgraph which hosts the development.
 
 
 # mxGraph TypeScript status and motivations
 
 mxGraph is a javascript lib and its maintainers have no plan to support TypeScript. (See
-[mxGraph #81](https://github.com/jgraph/mxgraph/issues/81)). However, there is a large demand for this kind of support,
-especially from people who want to use mxGraph in Angular and React applications. 
+[mxGraph #81](https://github.com/jgraph/mxgraph/issues/81)) (mxGraph issues tracker has been shutdown on November 2020 when the
+project has been announced as End-Of-Life). However, there is a large demand for this kind of support, especially from people
+who want to use mxGraph in Angular and React applications. 
 
 Various individual efforts exist to make mxGraph TypeScript usage easier and consist on:
 - definition types
@@ -63,8 +66,10 @@ Notice that there are previous discussions on [mxGraph GitHub issues](https://gi
 
 # Onboarding people who have individual repositories/packages
 
-This current proposal is to invite all volunteers to contribute to the [hungtcs/mxgraph-type-definitions](https://github.com/hungtcs/mxgraph-type-definitions)
-repository, then propose a Pull Request to [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped).
+This current proposal is to invite all volunteers to contribute to the [typed-mxgraph/typed-mxgraph](https://github.com/typed-mxgraph/typed-mxgraph)
+repository (initial work started on [hungtcs/mxgraph-type-definitions](https://github.com/hungtcs/mxgraph-type-definitions) which has been deprecated
+on 2020-12-16).
+Then we may eventually propose a Pull Request to [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped).
 
 If you think that there is something among the [existing solutions](./existing-solutions.md) that already provide a better support than the proposed repository,
 please submit an issue to start a discussion about that.
@@ -82,6 +87,9 @@ contacts.
 
 If you are interested in this community effort, please submit an issue in this repository to start a discussion and
 describe how you want to participate. We welcome your participation!
+
+You can also directly submit issues and Pull Requests in https://github.com/typed-mxgraph/typed-mxgraph for direct
+contributions to Typescript definitions.
 
 
 ## Volunteers followup 
