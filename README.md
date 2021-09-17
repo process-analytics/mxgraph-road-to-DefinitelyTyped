@@ -1,7 +1,7 @@
 # mxgraph-road-to-DefinitelyTyped
 
-| **Archived on 2021-09-xx**: for usage of types for the EOL mxGraph lib, see https://github.com/typed-mxgraph/typed-mxgraph. See https://github.com/maxGraph/maxGraph (the mxGraph successor) that will natively support TypeScript in the future. |
-| -------- |
+| Archived on 2021-09-17 | For usage of types for the EOL mxGraph lib, see https://github.com/typed-mxgraph/typed-mxgraph. See https://github.com/maxGraph/maxGraph (the mxGraph successor) that will natively support TypeScript in the future. |
+| -------- | -------- |
 
 
 
